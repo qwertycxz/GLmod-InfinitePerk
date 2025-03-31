@@ -14,7 +14,7 @@
 [![Steam Favorites](https://img.shields.io/steam/favorites/2233226904)](https://steamcommunity.com/workshop/filedetails/?id=2233226904)
 ![GitHub Sponsors](https://img.shields.io/github/sponsors/qwertycxz)
 ![GitHub last commit](https://img.shields.io/github/last-commit/qwertycxz/GLmod-InfinitePerk)
-[![Steam Update Date](https://img.shields.io/steam/update-date/2233226904)](https://steamcommunity.com/workshop/filedetails/?id=2233226904)
+![Steam Update Date](https://img.shields.io/steam/update-date/2233226904)
 
 A [Griftlands](https://store.steampowered.com/app/601840) mod.
 
